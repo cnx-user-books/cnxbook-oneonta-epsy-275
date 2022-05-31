@@ -1,0 +1,178 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:bib="http://bibtexml.sf.net/">
+
+<title>Cognitive View: Information-Processing Theory (Part 2)</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44364</md:content-id>
+  <md:title>Cognitive View: Information-Processing Theory (Part 2)</md:title>
+  <md:abstract/>
+  <md:uuid>560e4dc1-71d6-4de2-a6d8-68779cdc9fa5</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Principles of Effective Learning</title>
+      <para id="id155392">We now turn to a few empirical principles, derived from decades of
+research, that are known to improve learning. These principles will
+not all apply to every learning situation; however, each of them has
+been sufficiently demonstrated through carefully controlled scientific
+studies to merit mentioning them here.</para>
+      <para id="id155398">The overarching goal here is to select processing strategies that will
+increase the likelihood of a learner recalling new information at a
+later point in time.</para>
+      <section id="uid15">
+        <title>Activate Prior Knowledge</title>
+        <para id="id155411">One of the most important cognitive principles for a teacher to keep
+in mind is the importance of relating information from long-term
+memory to information newly entering the system. Recall our
+discussion of elaborative rehearsal earlier, in which I indicated that
+making a connection to prior knowledge is a superior learning method
+to simply repeating information over and over without altering it.</para>
+        <para id="id155417">Any good lesson-plan format begins the class with some form of
+prior-knowledge activation. It might be a reminder or a brief review
+of what was studied in the previous day's lesson, or it could be a
+question similar to, “Have you ever had a problem you couldn't
+solve?” The purpose of this phase of the lesson is to activate prior
+knowledge–i.e., bring long-term memories back into working memory–so
+that new knowledge can be mingled with old with the result of more
+solid understanding of the new (and perhaps even the old) information.</para>
+        <example id="eip-595"><label/><title>Demonstration Activity</title>
+<para id="eip-951">
+Remember that <emphasis effect="italics">having</emphasis> prior knowledge is
+not good enough; that knowledge needs to be <emphasis effect="italics">activated</emphasis>
+in order to make use of it. Go to
+<link url="http://go.edpsych.net/implicit">http://go.edpsych.net/implicit</link> and notice that you will
+identify previously seen words more quickly than “new” words
+(which you have prior knowledge of, but have not recently been
+activated).
+</para>
+</example>
+      </section>
+      <section id="uid16">
+        <title>Organization</title>
+        <para id="id155468">This is one principle that applies to a rather restricted set of
+instructional situations, but it is so powerful that it deserves
+mention here. In contexts where there is a list of items to commit to
+memory, the task of memorizing the list will be much easier if the
+items are grouped together (i.e., organized) in a meaningful way.
+This also works as a basic memory strategy in everyday life—think
+about your latest visit to the grocery store and imagine remembering a
+rather random assortment of items versus grouping the dairy items
+together, the produce items together, etc.</para>
+      </section>
+      <section id="uid17">
+        <title>Deep Processing</title>
+        <para id="id155491">It is easy to become convinced that if a student spends, say, twenty
+hours reviewing for an exam, that student should be expected to excel
+on the exam. However, cognitive studies show that it is not
+specifically the <emphasis effect="italics">time</emphasis> one spends studying that matters most;
+what one <emphasis effect="italics">does</emphasis> during that time matters even more.</para>
+        <para id="id155507">Consider, for example, the all-too-common exam-preparation strategy of
+using flash cards. Students often take terms from the textbook or
+class discussions, write them down on flash cards, and then rehearse
+what is written down until the flash cards are memorized. Such a
+student will walk into the exam confident that the material has been
+thoroughly mastered. The problem with this approach to studying is
+that the student has only done “surface-level processing” of the
+material, rather than “deep” processing. It is surface-level
+because the student has memorized terms and definitions rather than
+truly understanding the meaning and applications of those concepts.</para>
+        <para id="id155522">Deep processing happens when one uses <emphasis effect="italics">elaborative rehearsal</emphasis>
+to connect a concept to other concepts that are already known or are
+being learned. For example, one could write a summary of a concept in
+one's own words to check for comprehension. Another approach to
+facilitate deep processing is to think of examples of the newly
+learned concept from one's own life. One could even make up
+fictitious examples of the concept if no examples come to mind from
+one's past experience.</para>
+        <para id="id155534">The point is, learning that comes from surface-level processing is not
+durable. One does not remember the content of flash cards for very
+long after the exam. But spending the same amount of time (or even
+less time) meaningfully engaged with the to-be-learned ideas can
+result in learning that could last for a lifetime.</para>
+      </section>
+      <section id="uid18">
+        <title>Distributed Practice</title>
+        <para id="id155549">There is one final principle for effective learning that must be
+mentioned here. To be the most effective learner, one should
+“space” or “distribute” one's studying over a period of time.
+Attempting to cram a lot of learning into one or two concentrated
+study sessions rarely works. Research cannot prescribe the specific
+number or length of study sessions required to maximize
+learning—there are too many variables to account for (e.g., one's
+prior knowledge of the topic, one's knowledge of related topics, the
+quality of one's study strategies, etc.). But the benefits of
+distributing one's study sessions over a period of time are well
+documented in the research literature.</para>
+      </section>
+    </section>
+  </content>
+  <bib:file>
+    <bib:entry id="bid0">
+      <bib:incollection>
+        <!--required fields-->
+        <bib:author>Atkinson, Richard C. and Shiffrin, Richard M.</bib:author>
+        <bib:title>Human memory: A proposed system and its control processes</bib:title>
+        <bib:booktitle>The psychology of learning and motivation</bib:booktitle>
+        <bib:publisher>Academic Press</bib:publisher>
+        <bib:year>1968</bib:year>
+        <!--optional fields-->
+        <bib:editor/>
+        <bib:volume>2</bib:volume>
+        <bib:series/>
+        <bib:type/>
+        <bib:chapter/>
+        <bib:pages>89-195</bib:pages>
+        <bib:address>New York</bib:address>
+        <bib:edition/>
+        <bib:month/>
+        <bib:note/>
+      </bib:incollection>
+    </bib:entry>
+    <bib:entry id="bid1">
+      <bib:article>
+        <!--required fields-->
+        <bib:author>Miller, George A.</bib:author>
+        <bib:title>The magical number seven, plus or minus two: Some limits on our capacity for processing information</bib:title>
+        <bib:journal>Psychological Review</bib:journal>
+        <bib:year>1956</bib:year>
+        <!--optional fields-->
+        <bib:volume>63</bib:volume>
+        <bib:number/>
+        <bib:pages>81-97</bib:pages>
+        <bib:month/>
+        <bib:note/>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="bid3">
+      <bib:article>
+        <!--required fields-->
+        <bib:author>Sweller, John and Chandler, Paul</bib:author>
+        <bib:title>Why some material is difficult to learn</bib:title>
+        <bib:journal>Cognition and Instruction</bib:journal>
+        <bib:year>1994</bib:year>
+        <!--optional fields-->
+        <bib:volume>12</bib:volume>
+        <bib:number/>
+        <bib:pages>185-233</bib:pages>
+        <bib:month/>
+        <bib:note/>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="bid2">
+      <bib:article>
+        <!--required fields-->
+        <bib:author>van Merrienboer, Jeroen J. G. and Sweller, John</bib:author>
+        <bib:title>Cognitive load theory and complex learning: Recent developments and future directions</bib:title>
+        <bib:journal>Educational Psychology Review</bib:journal>
+        <bib:year>2005</bib:year>
+        <!--optional fields-->
+        <bib:volume>17</bib:volume>
+        <bib:number/>
+        <bib:pages>147-177</bib:pages>
+        <bib:month/>
+        <bib:note/>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+
+</document>

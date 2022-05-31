@@ -1,0 +1,201 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Principles of Assessment (Part 2)</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45063</md:content-id>
+  <md:title>Principles of Assessment (Part 2)</md:title>
+  <md:abstract>Reliability and validity in assessment</md:abstract>
+  <md:uuid>e4487f41-50f9-4f55-8557-0c3df471acf2</md:uuid>
+</metadata>
+
+<content>
+    <note id="eip-512">The primary author of this module is Dr. Rosemary Sutton.</note>
+  <section id="import-manual-id231167819829355">
+   <title>
+Reliability
+   </title>
+  <para id="import-auto-id1167819944018">
+Reliability refers to the consistency of the measurement (Linn &amp; Miller
+2005). Suppose Mr. Garcia is teaching a unit on food chemistry in his tenth
+grade class and gives an assessment at the end of the unit using test items
+from the teachers' guide. Reliability is related to questions such as: How
+similar would the scores of the students be if they had taken the assessment on
+a Friday or Monday? Would the scores have varied if Mr. Garcia had selected
+different test items, or if a different teacher had graded the test? An
+assessment provides information about students by using a specific measure of
+performance at one particular time. Unless the results from the assessment are
+reasonably consistent over different occasions, different raters, or different
+tasks (in the same content domain) confidence in the results will be low and so
+cannot be useful in improving student learning.
+  </para>
+  <para id="import-auto-id1167817862482">There are 3 ways to assess the reliability of an assessment – Test-retest,
+equivalent forms, and internal consistency.
+   <term id="import-auto-id1167819896001">
+Test-retest
+   </term>
+   <emphasis effect="bold"/>
+reliability evaluates a test’s consistency over time. In order to evaluate
+test-retest reliability, a teacher would compare students’ performance on
+the same set of questions given at two points in time (e.g. two weeks apart).
+The
+   <term id="import-auto-id1167817830663">
+equivalent forms
+   </term>
+method (also called parallel forms or alternate forms) of evaluating reliability compares students’ performance on two
+versions or forms of the same test. The
+   <term id="import-auto-id1167819829317">
+internal consistency
+   </term>
+method of evaluating reliability is the only method that can be used with a
+single administration of an assessment. Internal consistency evaluates the
+consistency of students’ responses within a single administration of a
+test. One of the simplest ways to evaluate the internal consistency of a test
+is the
+   <term id="import-auto-id1167819829340">
+split-half method
+   </term>
+. In this method, a teacher compares students’ scores on two halves of the
+test (usually odds vs. evens) (Linn &amp; Miller 2005).
+  </para><para id="import-auto-id1167817828967">
+The Test-retest, equivalent forms, and internal consistency methods of
+evaluating reliability address the test itself.
+   <term id="import-auto-id1167819658693">
+Interrater reliability
+   </term>
+addresses the grading of assessments. Specifically, it addresses the question:
+Would scores have been different if a different teacher had graded the test? In
+order to evaluate interrater reliability a teacher compares the scores that two
+different graders give the same answers to a question. Interrater reliability
+is only a concern for subjectively graded items, since these items require
+graders to make interpretations (Linn &amp; Miller 2005).
+  </para>
+  <para id="import-auto-id1167817861949">
+Obviously we cannot expect perfect consistency. Students' memory, attention,
+fatigue, effort, and anxiety fluctuate and so influence performance. Even
+trained raters vary somewhat when grading assessment such as essays, a science
+project, or an oral presentation. Also, the wording and design of specific
+items influence students' performances. However, some assessments are more
+reliable than others and there are several strategies teachers can use to
+increase reliability.
+  </para>
+  <para id="import-auto-id1167817862113">First, assessments with more tasks or items typically have higher reliability.
+To understand this, consider two tests: one with five items and one with 50
+items. Chance factors influence the shorter test more than the longer test. If
+a student does not understand one of the items in the first test the total
+score is very highly influenced (it would be reduced by 20 percent). In
+contrast, if there was one item in the test with 50 items that was confusing,
+the total score would be influenced much less (by only 2 percent). Obviously,
+this does not mean that assessments should be inordinately long, but, on
+average, enough tasks should be included to reduce the influence of chance
+variations. Second, clear directions and tasks help increase reliability. If
+the directions or wording of specific tasks or items are unclear, then students
+have to guess what they mean, undermining the accuracy of their results. Third,
+clear scoring criteria are crucial in ensuring high reliability (Linn &amp;
+Miller, 2005).
+  </para>
+</section>
+  <section id="import-manual-id2311623249355">
+   <title>
+Validity
+   </title>
+  <para id="import-auto-id2717142">
+Validity is the evaluation of the “adequacy and appropriateness of the
+interpretations and uses of assessment results” for a given group of
+individuals (Linn &amp; Miller, 2005, p. 68). In plain language, validity
+refers to the accuracy of a test to measure what it is designed or intended to
+measure. For example, is it appropriate to conclude that the results of a
+mathematics test on fractions given to English Language Learners accurately
+represents their understanding of fractions? Obviously, other interpretations
+are possible. For example, that the immigrant students have poor English skills
+rather than mathematics skills.
+  </para>
+  <para id="import-auto-id2599569">
+It is important to understand that validity refers to the interpretation and
+uses made of the results of an assessment procedure not of the assessment
+procedure itself. For example, making judgments about the results of the same
+test on fractions may be valid if the students all understand English well.
+Validity involves making an overall judgment of the degree to which the
+interpretations and uses of the assessment results are justified. Validity is a
+matter of degree (e.g. high, moderate, or low validity) rather than all-or none
+(e.g. totally valid vs invalid) (Linn &amp; Miller, 2005).
+  </para>
+  <para id="import-auto-id2702771">
+Three sources of evidence are considered when assessing validity –
+content, construct and criterion.
+   <term id="import-auto-id2667708">
+Content validity
+   </term>
+evidence is associated with the question: How well does the assessment include
+the content or tasks it is supposed to? For example, suppose your educational
+psychology instructor devises a mid-term test and tells you this includes
+chapters one to seven in the textbook. Obviously, all the items in the test
+should be based on the content from educational psychology, not your methods or
+cultural foundations classes. Also, the items in the test should cover content
+from all seven chapters and not just chapters three to seven – unless the
+instructor tells you that these chapters have priority.
+  </para>
+  <para id="import-auto-id523118">Teachers have to be clear about their purposes and priorities for instruction
+before they can begin to gather evidence related to content validity. Content
+validation determines the degree that assessment tasks are relevant and
+representative of the tasks judged by the teacher (or test developer) to
+represent their goals and objectives (Linn &amp; Miller, 2005). It is important
+for teachers to think about content validation when devising assessment tasks
+and one way to help do this is to devise a Table of Specifications. A Table of
+Specifications identifies the number of items (i.e. questions) on the
+assessment that are associated with each educational goal or objective.
+  </para>
+  <para id="import-auto-id2667678">
+Construct validity evidence is more complex than content validity evidence.
+Often we are interested in making broader judgments about students’
+performances than specific skills such as doing fractions. The focus may be on
+constructs such as mathematical reasoning or reading comprehension. A construct
+is an abstract or theoretical characteristic of a person we assume exists to
+help explain behavior. For example, we use the concept of test anxiety to
+explain why some individuals when taking a test have difficulty concentrating,
+have physiological reactions such as sweating, and perform poorly on tests but
+not in class assignments. Similarly, mathematical reasoning and reading
+comprehension are constructs as we use them to help explain performance on an
+assessment. Construct validation is the process of determining the extent to
+which performance on an assessment can be interpreted in terms of the intended
+constructs and is not influenced by factors irrelevant to the construct. For
+example, judgments about recent immigrants' performance on a mathematical
+reasoning test administered in English will have low construct validity if the
+results are influenced by English language skills that are irrelevant to
+mathematical problem solving. Similarly, construct validity of end-of-semester
+examinations is likely to be poor for those students who are highly anxious
+when taking major tests but not during regular class periods or when doing
+assignments. Teachers can help increase construct validity by trying to reduce
+factors that influence performance but are irrelevant to the construct being
+assessed. These factors include anxiety, English language skills, and reading
+speed (Linn &amp; Miller 2005).
+  </para>
+  <para id="import-auto-id2538243">
+A third form of validity evidence is called criterion-related validity.
+Criterion related validity is the extent to which a student’s score on a
+test relates to another measure of the same content or construct. Criterion
+related validity is further delineated into two sub-types depending on when the
+other measure is given to students. If the other measure is given at the same
+time, we use the term
+   <term id="import-auto-id2756076">
+concurrent
+   </term>
+   <emphasis effect="bold"/>
+validity. If it is given at some point in the future, we use the term
+   <term id="import-auto-id2733927">
+predictive validity
+   </term>
+. Selective colleges in the USA use the ACT or SAT among other measures to
+choose who will be admitted because these standardized tests help predict
+freshman grades, i.e. they are high in the predictive type of criterion-related
+validity.
+  </para>
+  </section>
+
+  <section id="import-auto-id1167819829355">
+   <title>Reference</title><para id="import-auto-id1167819829368">
+Linn, R. L., &amp; Miller, M. D. (2005). Measurement and Assessment in Teaching
+9th ed. Upper Saddle River, NJ: Pearson.
+   </para>
+  </section>
+ </content>
+</document>

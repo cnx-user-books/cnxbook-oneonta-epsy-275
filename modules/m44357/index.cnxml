@@ -1,0 +1,151 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:bib="http://bibtexml.sf.net/">
+
+<title>Cognitive View: Cognitive Load Theory</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44357</md:content-id>
+  <md:title>Cognitive View: Cognitive Load Theory</md:title>
+  <md:abstract/>
+  <md:uuid>1816dc54-d338-4f75-bad8-7e71fb11b499</md:uuid>
+</metadata>
+
+<content>
+  <section id="cid4">
+      <title>Cognitive Load Theory</title>
+      <para id="id155211">The information-processing model has given rise to a theory of
+instructional design called <emphasis effect="italics">cognitive load theory</emphasis> (<link target-id="bid2">Sweller &amp; Chandler, 1994</link>; <link target-id="bid3">van Merriënboer &amp; Sweller,
+2005</link>). Because working memory is the
+principal player in the process of learning new information, cognitive
+load theory focuses exclusively on working memory. The gist of this
+theory is that there are distinct types of demands imposed upon
+working memory during learning: intrinsic, extraneous, and germane.
+We now examine each of these.</para>
+      <section id="uid12">
+        <title>Intrinsic Cognitive Load</title>
+        <para id="id155242"><emphasis effect="italics">Intrinsic cognitive load</emphasis> represents the burden imposed on
+working memory by the inherent nature of the material. In other
+words, simple topics require very little processing capacity in
+working memory, and complex topics demand a large amount of space.
+For example, it requires considerably more focus to safely drive a
+semi truck through a rainstorm than to sign your name with a pen on
+paper. Driving the semi requires attention to many different
+information inputs (e.g., gauges, mirrors, windshield) and
+coordinating the requisite motor skills in response; all of this
+processing is conducted in working memory. Signing one's name takes
+barely any attention at all (for adults) because it has been done
+thousands of times before. Thus, the effect of having practiced the
+skill reduces its intrinsic cognitive load.</para>
+        <para id="id155256">But practice alone cannot reduce the intrinsic cognitive load of all
+tasks. The <emphasis effect="italics">element interactivity</emphasis> (i.e., coordination among
+multiple aspects) inherent in some tasks cannot ultimately reduce the
+task to a trivial activity, even with extensive practice. If that
+were the case, we should all be capable of becoming skilled airline
+pilots or successful politicians.</para>
+        <para id="id155268">For beginners learning an essential skill, element interactivity
+becomes problematic and must be temporarily reduced. When learning a
+language, one first learns the alphabet and then proceeds to acquire
+simple words or phrases—not complex prose. But one cannot be
+considered proficient in a language unless one can understand its
+complex prose. This is an example of element interactivity because
+understanding prose depends upon not only understanding its nouns,
+verbs, adverbs, etc., but also how each of them modifies or alters the
+meaning of other words nearby. Topics or skills that contain element
+interactivity must at first be oversimplified and then gradually built
+up to their full complexity before one can successfully deal with the
+intrinsic cognitive load.</para>
+      </section>
+      <section id="uid13">
+        <title>Extraneous Cognitive Load</title>
+        <para id="id155289"><emphasis effect="italics">Extraneous cognitive load</emphasis> is the set of mental demands that
+are irrelevant to the current task. Recall the butterfly display that
+was distracting Pierre (<link target-id="uid3" document="mXXXXX"/>)? The
+butterflies had nothing to do with the directions the teacher was
+giving Pierre's group, yet Pierre was distracted by his classmates on
+the other side of the room. His classmates' activity was extraneous
+cognitive load for Pierre because it was consuming his precious
+cognitive resources yet not providing any real benefit to him in the
+task of understanding his teacher's directions.</para><para id="id155307">It is critical to realize that these various forms of cognitive load
+are <emphasis effect="italics">additive</emphasis>—that is, they each increase the amount of
+processing space that is active in working memory. For example, if
+the intrinsic load is already high, there is not much room for any
+extraneous load unless the learner decides (like Pierre) to reduce the
+processing of the intrinsic load and focus more on the extraneous
+load. Teachers should strive to reduce extraneous cognitive load in
+their classrooms because students are likely to sacrifice attention to
+important material and distract themselves with the extraneous
+stimuli.</para>
+        <para id="id155325">Extraneous cognitive load is, for the most part, under the direct
+control of the teacher. Have you ever seen presentations that were
+decorated with graphics which were only tangentially related to the
+content? You probably found yourself sidelined by the images and not
+paying sufficient attention to the material itself. Because working
+memory has such a limited capacity, we cannot afford to “clutter up”
+this valuable space with unproductive ideas that divert attention from
+more important content. As a teacher, you should make earnest efforts
+to avoid exposing students to extra “fluff” during learning
+activities.</para>
+      </section>
+      <section id="uid14">
+        <title>Germane Cognitive Load</title>
+        <para id="id155348"><emphasis effect="italics">Germane cognitive load</emphasis> has been explained in various ways.
+The explanation I prefer is the more traditional characterization that
+germane load represents increased demand upon working memory in the
+service of the learning goal. This can be explained more easily
+through an example. Most (if not all) languages have forms of
+expression that are not appropriate for all audiences. For example,
+in English one would not address the President of the United States in
+the same informal way as one would address a close friend
+(<emphasis effect="italics">“How is your day going, Mr. President?”</emphasis> versus
+<emphasis effect="italics">“Hey dude, whazzup?”</emphasis>). The meaning of the utterance
+expressed to these two individuals may be the same, but the words and
+intonation are somewhat different. If an international student were
+learning English, it would be important for the language teacher to
+communicate not only the meaning of the words (intrinsic load) but
+also the contexts in which those words are appropriate (germane load).
+Learning the situations in which certain phrases are most
+appropriately used goes beyond intrinsic load but could hardly be
+considered extraneous if one's purpose is to learn the language well.</para>
+        <para id="id155375">It goes without saying that beginning learners should not be exposed
+to germane cognitive load; the intrinsic load for many tasks is of
+sufficient complexity that beginners cannot handle any additional
+processing burdens. However, as learning proceeds and the intrinsic
+load becomes more and more automatized, teachers can add aspects of
+additional complexity that enhance students' understanding of the
+material in a germane way.</para>
+      </section>
+    </section>
+</content>
+<bib:file>
+    <bib:entry id="bid3">
+      <bib:article>
+        <!--required fields-->
+        <bib:author>Sweller, John and Chandler, Paul</bib:author>
+        <bib:title>Why some material is difficult to learn</bib:title>
+        <bib:journal>Cognition and Instruction</bib:journal>
+        <bib:year>1994</bib:year>
+        <!--optional fields-->
+        <bib:volume>12</bib:volume>
+        <bib:number/>
+        <bib:pages>185-233</bib:pages>
+        <bib:month/>
+        <bib:note/>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="bid2">
+      <bib:article>
+        <!--required fields-->
+        <bib:author>van Merrienboer, Jeroen J. G. and Sweller, John</bib:author>
+        <bib:title>Cognitive load theory and complex learning: Recent developments and future directions</bib:title>
+        <bib:journal>Educational Psychology Review</bib:journal>
+        <bib:year>2005</bib:year>
+        <!--optional fields-->
+        <bib:volume>17</bib:volume>
+        <bib:number/>
+        <bib:pages>147-177</bib:pages>
+        <bib:month/>
+        <bib:note/>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+
+
+</document>

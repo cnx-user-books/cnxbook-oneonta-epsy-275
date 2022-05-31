@@ -1,0 +1,107 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Cognitive View: Parallel Distributed Processing</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44370</md:content-id>
+  <md:title>Cognitive View: Parallel Distributed Processing</md:title>
+  <md:abstract/>
+  <md:uuid>cc5a2f1a-80d1-42ff-bd8a-ab86c33dffff</md:uuid>
+</metadata>
+
+<content>
+   
+      <section id="id1167787027031"><title>Organizing new information </title><para id="id4038702">There are many ways to organize new information that are especially well-suited to teacher-directed instruction. A common way is simply to ask students to <emphasis effect="bold">outline information</emphasis> read in a text or heard in a lecture. Outlining works especially well when the information is already organized somewhat hierarchically into a series of main topics, each with supporting subtopics or subpoints. Outlining is basically a form of the more general strategy of <emphasis effect="bold">taking notes</emphasis>, or writing down key ideas and terms from a reading or lecture. Research studies find that that the precise style or content of notes is less important that the quantity of notes taken: more detail is usually better than less (Ward &amp; Tatsukawa, 2003). Written notes insure that a student thinks about the material not only while writing it down, but also when reading the notes later. These benefits are especially helpful when students are relatively inexperienced at school learning in general (as in the earlier grade levels), or relatively inexperienced about a specific topic or content in particular. Not surprisingly, such students may also need more guidance than usual about <emphasis effect="italics">what</emphasis> and <emphasis effect="italics">how </emphasis>to write notes. It can be helpful for the teacher to provide a note-taking guide, like the ones shown in Exhibit 1.</para><example id="eip-id1169526270769"><label>Exhibit</label><title>Two note taking guides</title>
+<example id="eip-id1880152"><label/>
+        <title>Notes on Science Experiment</title>
+<list id="eip-id1169527730304" list-type="enumerated"><item id="id1167782721999">Purpose of the experiment (in one sentence): </item>
+        <item id="id1974530">Equipment needed (list each item and define any special terms):
+<list id="eip-id1169540583764" list-type="enumerated">
+        <item id="id1167791229347"/>
+        <item id="id1167799708036"/>
+        <item id="id1167793449103"/>
+        <item id="id1167796154745"/>
+</list>
+</item>
+        <item id="id1167782717707">Procedure used (be specific!):</item>
+        <item id="id1167801007691"/>
+        <item id="id1167784910687">Results (include each measurement, rounded to the nearest integer):
+        <table id="id1167784980865" summary="list of observations and their average measurement. empty.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Observation #1</entry>
+                <entry><space count="20"/></entry>
+              </row>
+              <row>
+                <entry>Observation #2</entry>
+                <entry><space count="20"/></entry>
+              </row>
+              <row>
+                <entry>Observation #3</entry>
+                <entry><space count="20"/></entry>
+              </row>
+              <row>
+                <entry>Observation #4</entry>
+                <entry><space count="20"/></entry>
+              </row>
+              <row>
+                <entry>Average measurement, #1-4:</entry>
+                <entry><space count="20"/></entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+</item>
+</list>
+</example>
+<example id="eip-id1169545375668"><label/>
+        
+          <title>Guide to Notes About 
+          <emphasis effect="italics">Tale of Two Cities:</emphasis></title>
+      <list id="eip-id1169542642180" list-type="enumerated">
+        <item id="id1167802168205">Main characters (list and describe in just a few words):
+<list id="eip-id3248487" list-type="enumerated" number-style="lower-alpha"><item id="id1167782716257"/>
+        <item id="id1167787181900"/>
+        <item id="id1167786280384"/>
+        <item id="id1167784810831"/>
+</list>
+</item>
+        <item id="id1167796164609">Setting of the story (time and place):</item>
+        <item id="id1167783431969">Unfamiliar vocabulary in the story (list and define):
+<list id="eip-id1169523451839" list-type="enumerated" number-style="lower-alpha"><item id="id1167784942158"/>
+        <item id="id5139068"/>
+        <item id="id1167784427694"/>
+        <item id="id1167783783096"/>
+</list>
+</item>
+        <item id="id1167785350839">Plot (write down only the main events):
+<list id="eip-id1169517224218" list-type="enumerated" number-style="lower-alpha"><item id="id1167792787722"/>
+        <item id="id1167786025502"/>
+        <item id="id1167784754782"/>
+        <item id="id1167784180053"/>
+</list>
+</item>
+        <item id="id1167787330702">Theme (or underlying “message”) of the story:</item>
+</list>
+</example>
+</example>
+        
+        <para id="id1167784284229">In learning expository material, another helpful strategy—one that is more visually oriented—is to make <emphasis effect="bold">concept maps</emphasis>, or diagrams of the connections among concepts or ideas. Exhibit 5 shows concept maps made by two individuals that graphically depict how a key idea, <emphasis effect="italics">child development,</emphasis> relates to learning and education. One of the maps was drawn by a classroom teacher and the other by a university professor of psychology (Seifert, 1991). They suggest possible differences in how the two individuals think about children and their development. Not surprisingly, the teacher gave more prominence to practical concerns (for example, classroom learning and child abuse), and the professor gave more prominence to theoretical ones (for example, Erik Erikson and Piaget). The differences suggest that these two people may have something different in mind when they use the same term, <emphasis effect="italics">child development.</emphasis> The differences have the potential to create misunderstandings between them (Seifert, 1999; Super &amp; Harkness, 2003). By the same token, the two maps also suggest what each person might need to learn in order to achieve better understanding of the other person’s thinking and ideas.</para>
+        
+        <para id="id1167785461690"><figure id="id1167793695902" orient="vertical"><subfigure id="eip-id1509492"><media id="id1167787494335_media" alt="A teacher's concept map, connecting social problems, drug use, growth, child development, and much more.">
+              <image mime-type="image/png" src="../../media/Picture 4.png" id="id1167787494335__onlineimage" width="400"/>
+            </media></subfigure>
+
+<subfigure id="eip-id1166208493264"><media id="id1167793695902_media" alt="A university professor's concept map, significantly different from that of the teacher, with fields such as social relations, school, information processing, and moral development.">
+              <image mime-type="image/png" src="../../media/Picture 5.png" id="id1167793695902__onlineimage" width="500"/>
+            </media></subfigure>
+          <caption>Maps of personal definitions of “child development”</caption></figure>
+        </para>
+        
+      </section><section id="eip-860"><title>Parallel Distributed Processing</title><para id="para1">Concept maps have their origin in the <emphasis effect="bold">Parallel Distributed Processing (PDP)</emphasis> model, also called the <emphasis effect="bold">Connectionist Model</emphasis>, of memory (McClelland &amp; Rumelhart, 1981). The PDP model is based on the premise that our memory system consists of an interconnected series of <emphasis effect="bold">nodes</emphasis>, or concepts. Our understanding of an individual concept depends on the connections made between that node and other nodes. For instance, child development is a node in the concept maps above. Each individual's understanding of child development depends on the nodes that are connected to the child development node. If the child development node was not connected to other nodes, the individual would not know anything about child development.</para><para id="eip-6">According to the PDP model, our memory system functions through the activation of nodes. When a node is activated, turned on, it becomes accessible to your conscious thought. A node can be activated by an external stimulus, such as a test question on child development, or by another node. When a node is turned on it activates the nodes connected to it. The node causing the activation is called a <emphasis effect="bold">prime</emphasis> and its activation of other nodes is called the <emphasis effect="bold">priming effect</emphasis>. The activation of nodes acts in a cascading way, with each activated node activating the nodes connected to it. For instance, in concept map “a” above the activation of child development would result in the activation of theorists, learning, growth, and social problems. Each of these nodes would activate the nodes connected to them. For instance, theorists would activate Freud, Erickson, and Piaget. This cascading series of activations is called <emphasis effect="bold">spreading activation</emphasis>. The <emphasis effect="italics">parallel</emphasis> part of the Parallel Distributed Processing model represents the fact that all this activation occurs at the same time (i.e., in parallel).</para><para id="eip-423">In the classroom, the PDP model is used when teachers introduce new topics by asking students to recall related information that they already know. For instance, a teacher might start a lecture on Piaget by asking students to recall the definition of child development. Recalling the definition of child development will activate a student’s nodes related to child development, allowing them to make connections between Piaget and other concepts they know related to child development.</para></section><section id="eip-609"><title>Reference</title><para id="eip-933">McClelland, J. L. &amp; Rumelhart, D. E. (1981). An interactive activation model of context effects in letter perception: Part 1. An account of basic findings. <emphasis effect="italics">Psychological Review, 88,</emphasis> 375-407. 
+</para></section></content>
+
+
+</document>

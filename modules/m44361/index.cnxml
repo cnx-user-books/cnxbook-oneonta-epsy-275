@@ -1,0 +1,370 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:bib="http://bibtexml.sf.net/">
+
+<title>Cognitive View: Information-Processing Theory (Part 1)</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44361</md:content-id>
+  <md:title>Cognitive View: Information-Processing Theory (Part 1)</md:title>
+  <md:abstract/>
+  <md:uuid>0fdfb9fd-231d-4a73-a302-a9ee956016e5</md:uuid>
+</metadata>
+
+<content>
+    <para id="id154349">Information-processing theory is a psychological theory about how we
+process and learn information. Clearly, this is a topic that is at
+the core of the everyday work of a classroom teacher, so let's spend
+some time exploring this theory and how it applies in the classroom.</para>
+    <section id="cid1">
+      <title>Human Cognitive Architecture</title>
+      <para id="id154367">The phrase <emphasis effect="italics">human cognitive architecture</emphasis> is just a fancy
+academic way of referring to the areas of the human brain involved in
+thinking. Don't be dazzled by this term—it means little more than
+what I've just told you.</para>
+      <para id="id154378">But now we're going to explore the details of human cognitive
+architecture and show why this is such an important topic for
+classroom teachers to understand.</para>
+    </section>
+    <section id="cid2">
+      <title>Thinking Wasn't Always Fashionable</title>
+      <para id="id154392">Before we discuss cognitive architecture we should first say that it
+used to be the case that few scholars wished to speculate about how
+the mind thinks. Researchers known as “behaviorists” preferred to
+talk only about <emphasis effect="italics">observable</emphasis> aspects of learning—in other
+words, what was put into the system (e.g., teachers' questions) and
+what came out of it (e.g., students' responses). In fact, there was
+fierce resistance among these folks to use terms such as “think”
+because there could be no direct observation of thinking; therefore,
+any claim about thinking must necessarily be restricted to conjecture
+and was thus off-limits. A few of these folks are still around today,
+but most of them have been converted to a new way of—<emphasis effect="italics">dare I
+say it?</emphasis>—thinking.</para>
+    </section>
+    <section id="cid3">
+      <title>Information Processing</title>
+      <para id="id154762">Long ago and far away, in the late 1960s and throughout the 1970s,
+researchers became increasingly dissatisfied with the behaviorist
+explanations of learning and began to work on some new models
+explaining how people learn. Most famously, Richard Atkinson and
+Richard Shiffrin <link target-id="bid0">(1968)</link> proposed a cognitive model
+describing how the mind processes information. This model remains
+popular even today, so we will take a close look at it now.</para>
+      <para id="id154775">Although somewhat oversimplified when compared to more recent work in
+this field, Atkinson and Shiffrin's model has become known simply as
+“the information-processing model.” The basic notion of this model
+is that it tracks the flow of information as new knowledge moves from
+the entry point toward permanent storage within the
+information-processing system. The model proposes three storage
+compartments (see <link target-id="uid1"/>), known as
+“stores,” which hold information at various points during
+processing.</para>
+      <figure id="uid1"><media id="uid1_media" alt="">
+          <image mime-type="image/png" src="../../media/InfoProcessingModel.png" id="uid1_onlineimage" width="500"><!-- NOTE: attribute width changes image size online (pixels). original width is 1787. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/InfoProcessingModel.eps" id="uid1_printimage"/>
+        </media>
+        
+      <caption>Atkinson and Shiffrin's (1968) information-processing
+model. Note that short-term memory is now more commonly known as
+“working memory.”</caption></figure>
+      <section id="uid2">
+        <title>Sensory Memory</title>
+        <para id="id154813">The first store is known as <emphasis effect="italics">sensory memory.</emphasis> This is the
+entry point for all information coming into the system. Specifically,
+the kinds of information that sensory memory processes are signals
+from the five senses: sight, hearing, taste, smell, and touch.
+Because these senses are always up and running, they are continuously
+delivering new data to the sensory memory (even during sleep). Take a
+moment to close your eyes and notice the information from your other
+four senses that you were unaware of when you began reading this
+paragraph (e.g., whether your chair is cushioned or hard, whether your
+neck feels warm or cool, etc.).</para>
+        <section id="uid3">
+          <title>Capacity and Duration</title>
+          <para id="id154835">Although sensory memory can hold quite a lot of information, it cannot
+keep any of this information for very long due to the constant inflow
+of new data. Estimates of duration vary somewhat, but most agree that
+information cannot be kept active in sensory memory for more than a
+few (e.g., 3-5) seconds.</para>
+          <para id="id154840">We cannot possibly process all of the data that sensory memory
+intakes. Therefore, we must select those sensory data that are
+relevant to whatever task we are currently undertaking—and ignore
+the rest. For the most part, we do this without being very aware of
+it.</para>
+          <para id="id154848">One bothersome aspect of sensory memory is that it collects some
+sensory data that we wish we could ignore. Have you ever tried to
+concentrate, perhaps on school assignments, but felt distracted by the
+goings-on around you? That is a classic example of having sensory
+data that you felt compelled to process when it didn't meaningfully
+benefit you.</para>
+          <para id="id154854"><quote id="eip-id1164935413704" display="block">Imagine Pierre, a student in a busy classroom where a
+teacher is giving a group of students directions for an
+assignment. Pierre is trying to concentrate on the teacher's
+instructions, but some other students are creating a distraction
+with a butterfly display on the other side
+of the room. The problem here, from a cognitive perspective, is
+that Pierre cannot effectively process both the actions of his
+classmates and the teacher's directions; he must choose whether to
+pay attention to the distraction or to his teacher. All of this
+information is contained in sensory memory, but not all of it can
+be processed in working memory, for reasons we discuss next.</quote>
+          </para>
+          <example id="eip-4"><label/><title>Application Activity</title><para id="eip-105">
+How many times have you seen a penny? Would you be able to
+recognize a penny if you saw one? Go to
+<link url="http://go.edpsych.net/cents">http://go.edpsych.net/cents</link> and see if you can indentify
+which one is the real penny. Explain, based on the
+information-processing model, why you (or someone else) might
+have difficulty with this task.
+</para>
+</example>
+        </section>
+      </section>
+      <section id="uid4">
+        <title>Working Memory</title>
+        <para id="id154890">Let's clear something up before we get ourselves too involved talking
+about working memory. Atkinson and Shiffrin originally called this
+store “short-term memory” (to contrast with long-term memory), but
+modern researchers use the term “working memory” instead. These two
+terms have some rather subtle distinctions (which cognitive scholars
+care deeply about), but for our purposes the differences are
+negligible. Thus, in this discussion, we will prefer the more common
+term “working memory.”</para>
+        <para id="id154900">Working memory is where the real business of thinking takes place.
+This is where your students will process the content of your carefully
+crafted lessons as well as your instructions for how to complete their
+assignments—oh yes, and your warnings regarding proper decorum in
+the classroom. This is where rocket scientists do their thing,
+eventually accomplishing moon landings, sending spacecraft to land
+with precision on other planets millions of miles away, and the like.
+Now you can see that working memory is a space to be respected (please
+remove your hat, if you are wearing one).</para>
+        <section id="uid5">
+          <title>Capacity</title>
+          <para id="id154921">The pity is, in spite of all of its capabilities, working memory is a
+very small place. Well before Atkinson and Shiffrin developed their
+information-processing model, George Miller <link target-id="bid1">(1956)</link>
+discovered that most individuals have approximately seven cognitive
+“slots” available to be filled with information at any given time
+and that this number varies by about two slots across the population,
+yielding the now-popular estimate of “seven plus or minus two”
+elements available in working memory to hold all the information one
+wishes to cram in.</para>
+          <para id="id154937"><quote id="eip-id1171568422205" display="block">Take a moment now to think how you might remember a
+telephone number if you had to look it up and then walk over to a
+phone a short distance away to dial that number. If it is a local
+number, it has seven digits. As long as your working memory has
+seven slots available, you should be good to go. But what if
+someone delivers some surprising news to you halfway through your
+walk to the phone? It is unlikely that you will remember the
+phone number because you will be using some of your working-memory
+capacity to process the news you have just received. The point
+is, working memory is just too small for us to do everything we
+would like to be capable of doing.</quote>
+          </para>
+          <para id="id154956">This limited capacity has profound implications for teaching and
+learning. Let us now consider how the students in your classroom are
+affected. If you provide them with complicated instructions for an
+assignment, there is likely minimal space remaining in working memory
+for them to comprehend the content. Likewise, if the pace of your
+instruction is too fast, with lots of information conveyed at a quick
+pace, there will be little chance for your students to sufficiently
+process the information, and maybe even not enough opportunity for
+them to write it down for later study. A disciplined, controlled pace
+of presentation is essential if meaningful learning is to occur.</para>
+          <example id="eip-810"><label/><title>Demonstration Activity</title>
+<para id="eip-355">
+ You might be surprised how quickly information
+escapes from your working memory. Go to
+<link url="http://go.edpsych.net/wm">http://go.edpsych.net/wm</link> and see how well you score!
+</para>
+</example>
+        </section>
+        <section id="uid6">
+          <title>Maintenance and Elaborative Rehearsal</title>
+          <para id="id154991">You might be wondering exactly what happens while information is being
+processed in working memory. What does it mean for information to be
+“processed”? We typically refer to processing in working memory
+with the term <emphasis effect="italics">rehearsal.</emphasis> There are two principal types of
+rehearsal: maintenance and elaborative. <emphasis effect="italics">Maintenance
+rehearsal</emphasis> is what you were likely doing as you walked from the
+telephone book to the nearest phone across the room—i.e., repeating
+the information over and over to yourself in order to keep it
+“active.” This is by far the easiest type of rehearsal but it is
+also the least effective. How well will you remember that phone
+number two hours from now?</para>
+          <para id="id155016">The second type of rehearsal is <emphasis effect="italics">elaborative rehearsal.</emphasis> When
+one uses elaborative rehearsal, one connects the new information with
+previously learned information; this integration of old and new
+information has a dramatic impact on the memorability of the new
+information. Let's go back to that phone number. Imagine that you
+recognize the last four digits to be the same as the house number
+where you lived for your entire childhood. Now is the phone number
+easier to remember? Of course it is. The integration of prior
+knowledge (the house number) with new information (the phone number)
+improves the memorability of the phone number.</para>
+        </section>
+        <section id="uid7">
+          <title>Duration</title>
+          <para id="id155038">How long does information hang around in working memory? If it is
+being rehearsed, information will be active until rehearsal of that
+information ceases. But if no particular processing strategy (e.g.,
+maintenance or elaborative rehearsal) is being applied to the
+information, it will vanish from working memory within 5-20 seconds.
+The reason for that broad estimate is that the information could die a
+slower death if no new information is imported into working memory to
+consume whatever limited space is available. Neglected information
+will not survive long in a busy working memory.</para>
+          <para id="id155046"><quote id="eip-id1163736081182" display="block">As a teacher, it is tempting to conclude that your students
+will understand and remember simple information (like a brief fact
+or quick directions) that you have just told them. However,
+consider the situation in which a student, Karla, is still trying
+to understand a previously explained concept. Karla's working
+memory is operating at full capacity with attempts to process
+earlier information and thus cannot successfully deal with the
+simple instruction or fact that you have now stated. Working
+memory is altogether too limited to thoroughly process rapidly
+delivered information.</quote>
+          </para>
+        </section>
+        <section id="uid8">
+          <title>Attention</title>
+          <para id="id155074">The concept of <emphasis effect="italics">attention</emphasis> is one's focus on a given portion of
+all possible stimuli. This is also the layman's understanding of the
+term “attention,” so you are already familiar with this idea.
+Whatever you are thinking about (i.e., whatever is currently in
+working memory) is what you are paying <emphasis effect="italics">attention</emphasis> to. We
+sometimes use the phrase “selective attention” to indicate that we
+must select a limited amount of information to process, and ignore the
+remainder of the incoming information streams.</para>
+          <example id="eip-522"><label/><title>Demonstration Activity</title>
+<para id="eip-40">
+ Notice how selective attention is necessary to
+focus on the target voice and number in this activity:
+<link url="http://go.edpsych.net/selattn">http://go.edpsych.net/selattn</link></para>
+</example>
+        </section>
+        <section id="uid9">
+          <title>Practice and Automaticity</title>
+          <para id="id155122">The longer a piece of information is effectively processed (e.g.,
+through elaborative rehearsal), the more we understand it and the more
+likely we will be to remember it at a later time. In layman's terms,
+this is called <emphasis effect="italics">practice.</emphasis> In the classroom, first-graders
+will need to practice their reading skills more than sixth-graders
+because the sixth-graders have “put in their time” already and have
+spent a considerable number of hours practicing their reading to the
+point where it is now automatic. When a skill (such as reading) has
+been <emphasis effect="italics">automatized,</emphasis> it requires fewer working-memory resources
+and thus consumes less space in working memory; this has the benefit
+of freeing up the remaining space in working memory for other
+thoughts. For example, how burdensome is it for you to figure out how
+to pronounce the word “conundrum” compared to the time it would take
+a first-grader? Because you can easily process this word, you can
+simultaneously consider the ideas “conundrum” and “Aunt Mary's
+wallet is missing from her purse, and we didn't see anyone enter or
+exit the room.” A first-grader would be capable of comparing these
+ideas but would require much more time to arrive at a complete
+understanding of the intersection between these two ideas than you
+would need, because you have already automatized much of the requisite
+processing.</para>
+          <para id="id155152">In summary, then, practice speeds up processing because it automatizes
+critical skills.</para>
+        </section>
+      </section>
+      <section id="uid10">
+        <title>Long-Term Memory</title>
+        <para id="id155166">Long-term memory is just what it sounds like: an area that stores
+information permanently. To arrive in long-term memory, information
+must have been sufficiently processed in working memory. Stated
+another way, working memory is the exclusive route to long-term
+memory. How does information become “sufficiently processed” in
+working memory? By considering both the amount of time spent and the
+quality of processing encountered there. We will discuss different
+qualities of information processing later. For now, keep in mind that the
+amount of time one spends thinking about a topic (e.g., preparing for
+an exam) does not necessarily predict one's memory for that material
+at a future point in time.</para><section id="uid11">
+          <title>Duration and Capacity</title>
+          <para id="id155187">As far as we know, information is maintained in long-term memory
+indefinitely; there are no known expiration dates here. Additionally,
+there is no known limit to the amount of knowledge that can be stored
+in long-term memory. No one can credibly make the excuse that they
+don't have room to store any more information!</para>
+          <para id="id155193">Now perhaps you can begin to see why it is important for teachers to
+understand human cognitive architecture. Without fully appreciating
+the capabilities and limitations of the information-processing system,
+teachers could easily have unrealistic expectations for their
+students—and that is not good for anybody.</para>
+        </section>
+      </section>
+    </section>
+
+
+  </content>
+  <bib:file>
+    <bib:entry id="bid0">
+      <bib:incollection>
+        <!--required fields-->
+        <bib:author>Atkinson, Richard C. and Shiffrin, Richard M.</bib:author>
+        <bib:title>Human memory: A proposed system and its control processes</bib:title>
+        <bib:booktitle>The psychology of learning and motivation</bib:booktitle>
+        <bib:publisher>Academic Press</bib:publisher>
+        <bib:year>1968</bib:year>
+        <!--optional fields-->
+        <bib:editor/>
+        <bib:volume>2</bib:volume>
+        <bib:series/>
+        <bib:type/>
+        <bib:chapter/>
+        <bib:pages>89-195</bib:pages>
+        <bib:address>New York</bib:address>
+        <bib:edition/>
+        <bib:month/>
+        <bib:note/>
+      </bib:incollection>
+    </bib:entry>
+    <bib:entry id="bid1">
+      <bib:article>
+        <!--required fields-->
+        <bib:author>Miller, George A.</bib:author>
+        <bib:title>The magical number seven, plus or minus two: Some limits on our capacity for processing information</bib:title>
+        <bib:journal>Psychological Review</bib:journal>
+        <bib:year>1956</bib:year>
+        <!--optional fields-->
+        <bib:volume>63</bib:volume>
+        <bib:number/>
+        <bib:pages>81-97</bib:pages>
+        <bib:month/>
+        <bib:note/>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="bid3">
+      <bib:article>
+        <!--required fields-->
+        <bib:author>Sweller, John and Chandler, Paul</bib:author>
+        <bib:title>Why some material is difficult to learn</bib:title>
+        <bib:journal>Cognition and Instruction</bib:journal>
+        <bib:year>1994</bib:year>
+        <!--optional fields-->
+        <bib:volume>12</bib:volume>
+        <bib:number/>
+        <bib:pages>185-233</bib:pages>
+        <bib:month/>
+        <bib:note/>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="bid2">
+      <bib:article>
+        <!--required fields-->
+        <bib:author>van Merrienboer, Jeroen J. G. and Sweller, John</bib:author>
+        <bib:title>Cognitive load theory and complex learning: Recent developments and future directions</bib:title>
+        <bib:journal>Educational Psychology Review</bib:journal>
+        <bib:year>2005</bib:year>
+        <!--optional fields-->
+        <bib:volume>17</bib:volume>
+        <bib:number/>
+        <bib:pages>147-177</bib:pages>
+        <bib:month/>
+        <bib:note/>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+
+</document>
